@@ -1,0 +1,109 @@
+1
+00:00:00,850 --> 00:00:03,203
+This is the Demo Report Generator.
+
+2
+00:00:03,053 --> 00:00:10,533
+It builds interactive SAS Visual Analytics reports in minutes: step by step,
+or designed for you by AI.
+
+3
+00:00:12,450 --> 00:00:14,777
+There are two ways to build a report.
+
+4
+00:00:14,627 --> 00:00:19,178
+Build it yourself, choosing every page, filter and chart.
+
+5
+00:00:19,028 --> 00:00:24,256
+Or let the AI Report Assistant design the whole report for you, in under a
+minute.
+
+6
+00:00:24,106 --> 00:00:28,813
+Either way, you get one package that imports straight into SAS Viya.
+
+7
+00:00:30,550 --> 00:00:32,890
+Option one: a custom report.
+
+8
+00:00:32,740 --> 00:00:36,301
+We name it, add the logo, and choose a colour theme.
+
+9
+00:00:40,050 --> 00:00:43,952
+Then we connect the SAS table, and load a sample of the data.
+
+10
+00:00:46,550 --> 00:00:52,223
+Next, we choose every filter, KPI card and chart, page by page.
+
+11
+00:00:52,073 --> 00:00:54,410
+The app checks each one as we go.
+
+12
+00:01:01,050 --> 00:01:05,642
+The live preview shows the report exactly as Visual Analytics will.
+
+13
+00:01:10,217 --> 00:01:11,358
+Option two.
+
+14
+00:01:11,208 --> 00:01:16,280
+With the data loaded, we ask the AI Report Assistant to design the
+report.
+
+15
+00:01:17,183 --> 00:01:23,703
+In seconds, it creates the measures it needs, designs four pages, and
+explains its choices.
+
+16
+00:01:26,850 --> 00:01:36,377
+Each page answers a business question: how many sick leaves, what
+drives the fraud score, and which doctors, facilities and patients need
+review.
+
+17
+00:01:41,850 --> 00:01:45,609
+Both reports import into SAS Viya in one step.
+
+18
+00:01:48,850 --> 00:01:52,830
+Here is the custom report, running on the full production data.
+
+19
+00:01:53,750 --> 00:01:57,574
+And here is the AI-designed report, on the same live data.
+
+20
+00:01:57,424 --> 00:02:02,431
+Every filter and chart is interactive, across all four pages.
+
+21
+00:02:16,883 --> 00:02:18,233
+Why does this matter?
+
+22
+00:02:18,083 --> 00:02:20,981
+Reports are ready in minutes, not days.
+
+23
+00:02:20,831 --> 00:02:25,369
+Teams keep full control, or get an AI design in under a minute.
+
+24
+00:02:25,219 --> 00:02:29,054
+Every report is on brand, and fully interactive.
+
+25
+00:02:28,904 --> 00:02:33,116
+And the AI sees the structure of the data, never the data rows.
+
+26
+00:02:35,017 --> 00:02:35,911
+Thank you.

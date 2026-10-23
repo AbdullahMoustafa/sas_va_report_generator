@@ -1,0 +1,10 @@
+# Real data (PII) - do not commit
+samples/sick_leave_sample.csv
+
+# Demo videos (too large for git)
+*.mp4
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

@@ -1,0 +1,10 @@
+name,type,label,role,format,values
+year,num,Year,category,,2024|2025|2026
+facility_emirate,char,Emirate,category,,Sharjah|Ras Al Khaimah|Ajman|Fujairah|Umm Al Quwain|Dubai|Abu Dhabi
+facility_name,char,Facility,category,,Al Qassimi Hospital|Kuwait Hospital Sharjah|Saqr Hospital|Fujairah Hospital|Dibba Hospital|Kalba Hospital
+type_of_facility,char,Type of Facility,category,,Hospital|Primary Health Care
+organism_name,char,Organism,category,,Escherichia coli|Klebsiella pneumoniae|Staphylococcus aureus|Pseudomonas aeruginosa|Acinetobacter baumannii
+antibiotic_name,char,Antibiotic,category,,Ampicillin|Ciprofloxacin|Ceftriaxone|Gentamicin|Meropenem|Amikacin
+ast_result_cat,char,AST Result,category,,Susceptible|Resistant|Intermediate
+specimen_type,char,Specimen Type,category,,Urine|Blood|Wound swab|Sputum
+specimen_collected_date,date,Collection Date,date,DATE9.,
